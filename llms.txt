@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/underneath-the-heavy-air/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Underneath The Heavy Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/underneath-the-heavy-air/) |
+| **Get License** | [Secure Licensing Rights for Underneath The Heavy Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/underneath-the-heavy-air/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3013)
 
 ---
 
