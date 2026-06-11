@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/underneath-the-heavy-air/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Underneath The Heavy Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/underneath-the-heavy-air/) |
+| **Get License** | [Secure Licensing Rights for Underneath The Heavy Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/underneath-the-heavy-air/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pulling you closer as the midnight turns to rust
+> Breathing in the warmth of this quiet kind of trust
+> Your shadows dancing slow against the amber glow
+> There is nowhere else I ever want to go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
